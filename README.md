@@ -1,4 +1,4 @@
-# Setting Up a Telegram Notification Server
+# Setting Up a Telegram Notification Server For TagUI
 
 #### Hello, TagUI enthusiasts! 👋
 
